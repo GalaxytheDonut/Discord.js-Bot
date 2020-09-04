@@ -30,3 +30,4 @@ As mentioned in optional tools, PM2 is a useful tool that can help you keep your
 `npm i pm2` to install it for the repo only or do `npm i pm2 -g` to install it globally (need admin/sudo perms)
 
 Then you can start the bot using PM2 by doing `pm2 start index.js` inside the bot folder. More documentation [here](https://pm2.keymetrics.io/)
+[![Run on Repl.it](https://repl.it/badge/github/HarutoHiroki/Discord.js-Bot)](https://repl.it/github/HarutoHiroki/Discord.js-Bot)
